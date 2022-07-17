@@ -1,4 +1,6 @@
-# Tech_optimum
+# Bear or Bull
+#
+## Submission for Optimum Tech Hackathon 2022
 ![image](https://user-images.githubusercontent.com/92415264/179381684-1eaa96ef-b451-437f-ba85-bd87bacbe4bb.png)
 
 ## Inspiration
